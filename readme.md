@@ -226,3 +226,4 @@ Please raise an issue in the repo
 
 ### License
 [BSD License](https://opensource.org/licenses/BSD-3-Clause) 
+(Considering making it MIT)
